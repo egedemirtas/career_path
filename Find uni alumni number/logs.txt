@@ -1,0 +1,132 @@
+uni name in file: Cankaya Universitesi
+uni name in linkedin: Çankaya Üniversitesi
+---------------------------------
+uni name in file: Koc Universitesi  
+uni name in linkedin: Koç University
+---------------------------------   
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".org-top-card-summary__title.t-24.t-black.t-bold.truncate"}
+  (Session info: chrome=89.0.4389.82)
+
+Hacettepe Universitesi  could not found
+uni name in file: Sabanci Universitesi  
+uni name in linkedin: Sabanci University
+---------------------------------
+uni name in file: Bilkent Universitesi
+uni name in linkedin: Bilkent University
+---------------------------------
+uni name in file: Bogazici Universitesi
+uni name in linkedin: Boğaziçi University
+---------------------------------
+uni name in file: Ozyegin Universitesi
+uni name in linkedin: Özyeğin University
+---------------------------------
+uni name in file: Istanbul Teknik Universitesi
+uni name in linkedin: Istanbul Technical University
+---------------------------------
+uni name in file: Istanbul Universitesi
+uni name in linkedin: Istanbul University
+---------------------------------
+uni name in file: Orta Dogu Teknik Universitesi
+uni name in linkedin: Orta Doğu Teknik Üniversitesi / Middle East Technical University
+---------------------------------
+uni name in file: Akdeniz Universitesi
+uni name in linkedin: Akdeniz University
+---------------------------------
+uni name in file: Aksaray Universitesi
+uni name in linkedin: Aksaray University
+---------------------------------
+uni name in file: Anadolu Universitesi
+uni name in linkedin: Anadolu University
+---------------------------------
+uni name in file: Ankara Universitesi
+uni name in linkedin: Ankara University
+---------------------------------
+uni name in file: Ataturk Universitesi
+uni name in linkedin: Atatürk Üniversitesi
+---------------------------------
+uni name in file: Atilim Universitesi
+uni name in linkedin: Atılım Üniversitesi
+---------------------------------
+uni name in file: Bahcesehir University
+uni name in linkedin: Bahcesehir University
+---------------------------------
+uni name in file: Baskent Universitesi
+uni name in linkedin: Baskent University
+---------------------------------
+uni name in file: Bezmialem Vakif Universitesi
+uni name in linkedin: Bezmialem Vakif University
+---------------------------------
+uni name in file: Bolu Abant Izzet Baysal Universitesi
+uni name in linkedin: Abant İzzet Baysal Üniversitesi
+---------------------------------
+uni name in file: Cukurova Universitesi
+uni name in linkedin: Cukurova University
+---------------------------------
+uni name in file: Dokuz Eylul Universitesi
+uni name in linkedin: Dokuz Eylul University
+---------------------------------
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".org-top-card-summary__title.t-24.t-black.t-bold.truncate"}
+  (Session info: chrome=89.0.4389.82)
+
+Duzce Universitesi  could not found
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".org-top-card-summary__title.t-24.t-black.t-bold.truncate"}
+  (Session info: chrome=89.0.4389.82)
+
+Ege Universitesi  could not found
+uni name in file: Erciyes Universitesi
+uni name in linkedin: Erciyes University
+---------------------------------
+uni name in file: Eskisehir Osmangazi Universitesi
+uni name in linkedin: Eskişehir Osmangazi Üniversitesi
+---------------------------------
+uni name in file: Gazi Universitesi
+uni name in linkedin: Gazi University
+---------------------------------
+uni name in file: Gaziantep Universitesi
+uni name in linkedin: Gaziantep Üniversitesi
+---------------------------------
+uni name in file: Gebze Teknik Universitesi
+uni name in linkedin: Gebze Technical University
+---------------------------------
+list index out of range
+Istanbul Medipol University  could not found
+uni name in file: Izmir Institute of Technology
+uni name in linkedin: Izmir Institute of Technology
+---------------------------------
+uni name in file: Marmara Universitesi
+uni name in linkedin: Marmara University
+---------------------------------
+uni name in file: Ondokuz Mayis Universitesi
+uni name in linkedin: Ondokuz Mayıs Üniversitesi
+---------------------------------
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".org-top-card-summary__title.t-24.t-black.t-bold.truncate"}
+  (Session info: chrome=89.0.4389.82)
+
+Sakarya Uygulamali Bilimler Universitesi  could not found
+uni name in file: Selcuk Universitesi
+uni name in linkedin: selcuk üniversitesi
+---------------------------------
+uni name in file: Suleyman Demirel Universitesi
+uni name in linkedin: Suleyman Demirel University
+---------------------------------
+uni name in file: TOBB Ekonomi ve Teknoloji Universitesi
+uni name in linkedin: TOBB Ekonomi ve Teknoloji Üniversitesi
+---------------------------------
+uni name in file: Yeditepe Universitesi
+uni name in linkedin: Yeditepe University
+---------------------------------
+uni name in file: Yildiz Teknik Universitesi
+uni name in linkedin: Yildiz Technical University
+---------------------------------
+uni name in file: TED Universitesi
+uni name in linkedin: TED University
+---------------------------------
+uni name in file: Isik Universitesi
+uni name in linkedin: Işık Üniversitesi
+---------------------------------
+uni name in file: Istanbul Bilgi Universitesi
+uni name in linkedin: Istanbul Bilgi University
+---------------------------------
+uni name in file: Kocaeli Universitesi
+uni name in linkedin: Kocaeli University
+---------------------------------
