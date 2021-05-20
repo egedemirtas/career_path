@@ -1,0 +1,50 @@
+{
+    "companies": [{
+        "company_name": "Nielsen",
+        "universities": [{
+            "uni_name": "Cankaya Universitesi",
+            "fields": [{
+                "field_name": "Computer Science",
+                "details": {
+                    "What they do": [{
+                            "skill": "neyse",
+                            "count": 0
+                        },
+                        {
+                            "skill": "neyse",
+                            "count": 0
+                        },
+                        {
+                            "skill": "neyse",
+                            "count": 0
+                        },
+                        {
+                            "skill": "neyse",
+                            "count": 0
+                        }
+                    ],
+                    "What they are skilled at": [{
+                            "skill": "neyse",
+                            "count": 0
+                        },
+                        {
+                            "skill": "neyse",
+                            "count": 0
+                        },
+                        {
+                            "skill": "neyse",
+                            "count": 0
+                        },
+                        {
+                            "skill": "neyse",
+                            "count": 0
+                        }
+                    ]
+                },
+                "fos_emp_count": 0
+            }],
+            "uni_emp_count": 0
+        }],
+        "company_emp_count": 0
+    }]
+}

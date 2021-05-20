@@ -1,0 +1,10 @@
+-üniversitesi belli değil, skilleri belli değil, ne okumak istiyorum belli, company belli:
+üniversitesi tavsiye et
+olmayan skilleri tavsiye et, (zaman yeterse: skile göre youtube linki(videosu) felan göstermek yapılabilir, bunu nasıl yaparız?: https://www.youtube.com/c/Freecodecamp/videos bu adresten mesela C++ ararız, o videonun linkini alırız, HTMLde iframe ile bu videonun adresini websitesine embed ederiz)
+
+-üniversitesi belli değil, skilleri belli değil, what do belli, company belli:
+üniversitesi tavsiye et
+alan tavsiye et
+olmayan skilleri tavsiye et, (zaman yeterse: skile göre youtube linki(videosu) felan göstermek yapılabilir, bunu nasıl yaparız?: https://www.youtube.com/c/Freecodecamp/videos bu adresten mesela C++ ararız, o videonun linkini alırız, HTMLde iframe ile bu videonun adresini websitesine embed ederiz)
+
+-üniversitesi belli, bölümü belli, company, what they do, skill belli değil?

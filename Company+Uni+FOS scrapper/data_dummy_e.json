@@ -1,0 +1,3865 @@
+[
+    {
+        "company_name": "LG Electronics",
+        "company_emp_count": 48137,
+        "universities": [
+            {
+                "uni_name": "Cankaya Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Koc Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Sales",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Metals",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Excel",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Aluminum",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Aluminum Alloys",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales & Marketing",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Metallurgy",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Siemens NX",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Mechanical Properties",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Hacettepe Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Operations",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Engineering",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Sabanci Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Bilkent Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Bogazici Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Ozyegin Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Istanbul Teknik Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Business Development",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Renewable Energy",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Strategy",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Team Building",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Heat Pumps",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Solar Energy",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HVAC Controls",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HVAC",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Negotiation",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "International Business Development",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Sales",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Key Account Relationships",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Energy",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Key Account Relationship Building",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Air Conditioning",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 5
+            },
+            {
+                "uni_name": "Istanbul Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Information Technology",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Engineering",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 11
+            },
+            {
+                "uni_name": "Orta Dogu Teknik Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Business Development",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Business Strategy",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales Management",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 5
+            },
+            {
+                "uni_name": "Akdeniz Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Aksaray Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Anadolu Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Education",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "AutoCAD",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Object-Oriented Programming (OOP)",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Eclipse",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "MATLAB",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Java",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C++",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Teaching English as a Foreign Language",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "JavaScript",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft SQL Server",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "PHP",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HTML",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Adobe Photoshop",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C#",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Linux",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Cascading Style Sheets (CSS)",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Information Technology",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Military and Protective Services",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Business Analysis",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Java",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Excel",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "JavaScript",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Program Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft SQL Server",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HTML",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Planning",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Security",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Team Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Office",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "SQL",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "New Business Development",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Customer Service",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 2,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Information Technology",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Support",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Microsoft Excel",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Microsoft Word",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Adobe Photoshop",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Sales Operations",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Visual Studio",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "MATLAB",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Proteus",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Leadership",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Pre-press",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C++",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Direct Mail",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Graphic Design",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Marketing",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Negotiation",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 41
+            },
+            {
+                "uni_name": "Ankara Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Education",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "AutoCAD",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Object-Oriented Programming (OOP)",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Eclipse",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "MATLAB",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Java",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C++",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Teaching English as a Foreign Language",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "JavaScript",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft SQL Server",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "PHP",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HTML",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Adobe Photoshop",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C#",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Linux",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Cascading Style Sheets (CSS)",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Support",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Ataturk Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Atilim Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Bahcesehir University",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Information Technology",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Military and Protective Services",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Business Analysis",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Java",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Excel",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "JavaScript",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Program Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft SQL Server",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HTML",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Planning",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Security",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Team Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Office",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "SQL",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "New Business Development",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Customer Service",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 3
+            },
+            {
+                "uni_name": "Baskent Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Bezmialem Vakif Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Bolu Abant Izzet Baysal Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Cukurova Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Dokuz Eylul Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Operations",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "AutoCAD",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Business Case Preparation",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales Operations",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Virtual Routing and Forwarding (VRF)",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Product Development",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HVAC Controls",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Excel",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Engineering",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HVAC",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "SOLIDWORKS",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "AHU",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Planning",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Office",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Air Conditioning",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Duzce Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Ege Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 5
+            },
+            {
+                "uni_name": "Erciyes Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Eskisehir Osmangazi Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Gazi Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Gaziantep Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Sales",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Gebze Teknik Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Istanbul Medipol University",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Izmir Institute of Technology",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Marmara Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Education",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "AutoCAD",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Object-Oriented Programming (OOP)",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Eclipse",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "MATLAB",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Java",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C++",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Teaching English as a Foreign Language",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "JavaScript",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft SQL Server",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "PHP",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HTML",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Adobe Photoshop",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "C#",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Linux",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Cascading Style Sheets (CSS)",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 8
+            },
+            {
+                "uni_name": "Ondokuz Mayis Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Sakarya Uygulamali Bilimler Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Selcuk Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Suleyman Demirel Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 1,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Product Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Real Estate",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Problem Solving",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Manufacturing Engineering",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Budget Process",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "SAP ERP",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Engineering",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Research",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Technology Change Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "CATIA",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Microsoft Office",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "ARIS",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Automotive",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Teamwork",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "TOBB Ekonomi ve Teknoloji Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Yeditepe Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 2
+            },
+            {
+                "uni_name": "Yildiz Teknik Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 2,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Information Technology",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Operations",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Project Management",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Microsoft Office",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Business Strategy",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "AutoCAD",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Virtual Routing and Forwarding (VRF)",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Engineering",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HVAC",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Time Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Team Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Air Conditioning",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Business Development",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Competition Law",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Distributorships",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Ventilation",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Six Sigma",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 2,
+                        "details": {
+                            "What they do": [
+                                {
+                                    "skill": "Information Technology",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Operations",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Sales",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Consulting",
+                                    "count": "1"
+                                }
+                            ],
+                            "What they are skilled at": [
+                                {
+                                    "skill": "Engineering",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "HVAC",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Air Conditioning",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Business Development",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "Sales Management",
+                                    "count": "2"
+                                },
+                                {
+                                    "skill": "AutoCAD",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Body Language",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Virtual Routing and Forwarding (VRF)",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Leadership",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "HVAC Controls",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Project Management",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Energy Efficiency",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Energy Conservation",
+                                    "count": "1"
+                                },
+                                {
+                                    "skill": "Visual Communication",
+                                    "count": "1"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 6
+            },
+            {
+                "uni_name": "TED Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 0
+            },
+            {
+                "uni_name": "Isik Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 1
+            },
+            {
+                "uni_name": "Istanbul Bilgi Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 3
+            },
+            {
+                "uni_name": "Kocaeli Universitesi",
+                "fields": [
+                    {
+                        "field_name": "computer science",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer engineer",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "information technology",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "computer software engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical and Electronics Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Electrical, Electronics and Communications",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechanical Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    },
+                    {
+                        "field_name": "Mechatronics, Robotics, and Automation Engineering",
+                        "fos_emp_count": 0,
+                        "details": {
+                            "What they do": [],
+                            "What they are skilled at": []
+                        }
+                    }
+                ],
+                "uni_emp_count": 4
+            }
+        ]
+    }
+]

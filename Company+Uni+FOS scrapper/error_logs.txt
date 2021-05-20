@@ -1,0 +1,6 @@
+Last visted company: https://www.linkedin.com/company/lenovo/
+Univ: Bahcesehir University
+FOS:Mechatronics, Robotics, and Automation Engineering
+fos_dict: {}
+Number of filters applied: 406
+Latest save location:data_dummy1.json
